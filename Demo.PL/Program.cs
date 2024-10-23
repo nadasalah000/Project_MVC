@@ -15,6 +15,7 @@ namespace Demo.PL
         {
             CreateHostBuilder(args).Build().Run();
            // Console.WriteLine("Hello");
+
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
